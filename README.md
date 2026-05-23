@@ -132,7 +132,7 @@ Irodai forgószék;2019;5;34500
 Acer laptop;2018;2;250000
 ...
 ```
-##Feladat
+## Feladat
 ```
  A leltar.csv fájl különböző eszközök adatait tartalmazza,
  pontosvesszővel elválasztva, utf-8 kódolással. VIGYÁZAT, az első sor fejléc!
